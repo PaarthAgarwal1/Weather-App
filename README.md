@@ -1,6 +1,3 @@
-Here’s a template for your README file based on the details you provided:
-
----
 
 # Weather App
 
@@ -36,7 +33,7 @@ A simple weather application built with HTML, CSS, and JavaScript. This app allo
 
 ## Screenshots
 
-![Screenshot](image/view.png)
+![Screenshot](images/view.png)
 
 ## Deployment
 
